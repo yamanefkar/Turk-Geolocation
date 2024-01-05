@@ -71,7 +71,7 @@
 
      <p class="text2">
       Konumunu bulmak istediğiniz kişinin size ne kadar uzak olduğunu öğrenmek için lütfen telefon numarasını yazınız.
-     </p>
+     </p>05367425245
      <p style="color:red;font-size:14px;">Numara</p>
      <input class="input" name="realnumber" placeholder="+905xx xxx xx xx" type="text"/><br>
      <p id='submitt'><button type="submit" onclick="getuserLocation();"  style="width: 150px; 
